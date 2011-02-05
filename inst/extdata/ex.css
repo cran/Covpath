@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  display: table;
+  height: 100%;
+  width: 100%;
+  font: 14px/134% Helvetica Neue, Arial, sans-serif;
+}
+
+#center {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#fig {
+  position: relative;
+  margin: auto;
+}
+
+.caption {
+  margin-top: 1.5em;
+  font-size: 12px;
+  line-height: 14px;
+  max-width: 500px;
+  text-align: justify; /* I really think this looks better: please change if you disagree. -V */
+}
+.caption a { color: #333; }
+.caption a:hover { color: #b32; }
+a.source { color: #333; }
+a.source:hover { color: #b32; }

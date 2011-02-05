@@ -1,0 +1,3 @@
+testfilecovpath 	test file to demonstrate function covpath.
+testfxTS 			test file to demonstrate functions covpathCVForTS and plotDependencyTimeSeries , using fx Data.
+testRatesTS 		test file to demonstrate functions covpathCVForTS and plotDependencyTimeSeries, using interest rate Data.
